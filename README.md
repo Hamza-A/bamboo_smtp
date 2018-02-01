@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/fewlinesco/bamboo_smtp.svg?branch=master)](https://travis-ci.org/fewlinesco/bamboo_smtp)
 [![Inline docs](http://inch-ci.org/github/fewlinesco/bamboo_smtp.svg)](http://inch-ci.org/github/fewlinesco/bamboo_smtp)
 
-# Bamboo.SMTPAdapter
+# Bamboo.SMTPAdapter!!
 
 An Adapter for the [Bamboo](https://github.com/thoughtbot/bamboo) email app.
 
